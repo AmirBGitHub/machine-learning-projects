@@ -3,7 +3,7 @@ My machine learning and deep learning projects
 
 # Guideline
 
-Projects 1-4: After cloning/downloading the repository and extracting the ZIP file and executing command python main.py in the first level directory, it will be able to generate all the results and plots used in the PDF report and print them out in a clear manner.
+Projects 1-4: After cloning/downloading the repository and extracting the ZIP file and executing command python 'main.py' in the first level directory, it will be able to generate all the results and plots used in the PDF report and print them out in a clear manner.
 
 Project 5: After cloning/downloading the repository and running the 'alphaBuildFeatures.m' file, it will be able to generate the results in two separate '.mat' files. The classification codes and results for surgeon robotic skill classification are available in the 'classification results' folder.
 
