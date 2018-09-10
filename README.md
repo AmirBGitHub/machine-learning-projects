@@ -60,10 +60,10 @@ The attached CSV file lists the customer, date, and dollar value of orders place
 The Python code will do the following:
 
 A) Assemble a dataframe with one row per customer and the following columns:
-    * customer_id
-    * gender
-    * most_recent_order_date
-    * order_count (number of orders placed by this customer)
+- customer_id
+- gender
+- most_recent_order_date
+- order_count (number of orders placed by this customer)
 
 B) Plot the count of orders per week.
 
