@@ -1,13 +1,17 @@
 # machine-learning-projects
 My machine learning and deep learning projects
 
-# machine-learning-projects
-
 # Guideline
 
-Projects 1-4: After extracting the ZIP file and executing command python main.py in the first level directory, it will be able to generate all the results and plots used in the PDF report and print them out in a clear manner.
+Projects 1-4: After cloning/downloading the repository and extracting the ZIP file and executing command python main.py in the first level directory, it will be able to generate all the results and plots used in the PDF report and print them out in a clear manner.
 
-Project 5: After cloning/downloading the repository and running the 'alphaBuildFeatures.m' file, it will be able to generate the results in two separate '.mat' files. The classification codes and results are available in the 'classification results' folder.
+Project 5: After cloning/downloading the repository and running the 'alphaBuildFeatures.m' file, it will be able to generate the results in two separate '.mat' files. The classification codes and results for surgeon robotic skill classification are available in the 'classification results' folder.
+
+Project 6-10: After cloning/downloading the repository right click on 'INK.fig' from MATLAB and 'Open in GUIDE'. After running the GUI  your handwritten curve will be segmented or the digit will be classified.
+
+Project 11: After cloning/downloading the repository run the 'Rubine.m', 'Viterbi_NY.m', or, 'Viterbi_US.m' to get the different zipcode classification results.
+
+Project 12: After cloning/downloading the repository run the 'Klaviyo exercise.py' file to get the statistical analysis results for customer data.
 
 # Project 1
 
