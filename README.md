@@ -28,3 +28,10 @@ The purpose of this project is to implement convolutional convolution neural net
 
 The CelebFaces Attributes Dataset (CelebA) is a large-scale face attributes dataset with 202,599 celebrity images, each in color with an original definition of 178 x 218. Each image in the CelebA dataset is in “.jpg” format was imported and converted into 1D vector format. The evaluation will be performed by calculating classification error rate (𝐸 = 𝑁𝑤𝑟𝑜𝑛𝑔/𝑁𝑉) in under the one-hot coding scheme for “Eyeglasses” attribute from list_attr_celeba.txt file indicating whether the person in the picture is wearing glasses or not.
 
+# Project 5
+
+The goal of this study is to classify the operators in a percutaneous nephrolithotomy (PCNL), a minimally-invasive procedure for stone removal from the kidney using a small puncture wound on the skin, simulation into two groups of experts and novices using kinematic features derived from the data of the simulation tool. 
+
+Fourteen participants performed the simulation that included 1 undergraduate student, 4 medical students, 1 post-doctoral research fellow, 5 residents, 2 clinical fellows, and 1 faculty. They were labeled into two levels of minimal/none and residence/training in PCNL experience corresponding to novices and experts, respectively. In a quiet test environment using the two stone kidney model, the player removed both stones to complete the simulation. 10 kinematic features were extracted and normalized from the simulation system data that included the mean value for the left and right tool in cumulative task time, path length, mean and variance velocity, and mean and variance orientation in each of x, y, and z axes. The summary statistics by class for each feature is provided in Table 1 (see the Word document). Linear discriminant analysis with diagonal covariance regularization was employed for the classification. 
+
+The surgeon skill classification was performed on 14 PCNL cases. Linear discriminant model was trained and validated using the aforementioned features by a 5-fold cross-validation with a test accuracy of 85.7% in classifying the skills.
