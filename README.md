@@ -45,7 +45,7 @@ Fourteen participants performed the simulation that included 1 undergraduate stu
 
 The surgeon skill classification was performed on 14 PCNL cases. Linear discriminant model was trained and validated using the aforementioned features by a 5-fold cross-validation with a test accuracy of 85.7% in classifying the skills.
 
-# Project 6-10
+# Projects 6-10
 
 The goal of these projects is to use a graphical interface (GUI) to recognize and classify the handwritten digits using different machine learning algorithms, e.g., SVM, Rubine, 1$ Recognizer, Image-based Classifier, and AdaBoost.
 
